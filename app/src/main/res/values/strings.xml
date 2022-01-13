@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Daniweb Android Query Audio MediaStore</string>
+    <string name="button_startQuery">Start Query</string>
+</resources>
